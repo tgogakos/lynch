@@ -3,15 +3,52 @@ Chapter:
 Header:
 	The origins of modern evolutionary thoery
 Notes/excerpts:
-It was fisher's landmark 1918 paper that demolished the barriers
+	It was fisher's landmark 1918 paper that demolished the barriers
 between these two schools of thought [i.e. mendelians and biometrics]. 
 He formally denostrated that the focal traits of biometricians-contnuously 
 distributed phenotypes associated with complex traits-are entirely consistent
 Mendel's laws. 
-Wright's seminal work on threshold characters made significant contributions 
+	 Wright's seminal work on threshold characters made significant contributions 
 to our understanding of major genetic disorders that superficially appear to have
 non-mendelian basis. He elegantly showed that the sudden appearance and disappearance
 of major phenotypes is fully consistent with expectations for a dichotomous trait
 with an underlying biochemical or cellular determinant have a multilocus basis.
+
+Header:
+	Nothing in evolution makes sense except in teh light of population genetics
+Notes:
+	Evolution is a population geentic process geoverned by four fundamental forces:
+		  1) Selection (natural and sexual)
+		  2) Mutation 
+		  3) Recombination 
+		  4) Random genetic drift - ensures that gene frequencies will deviate a bit from generation to generation independently of other forces.
+	Except for selection, the other three are non-adaptive in the sense that they are not a function of the fitness properties of individuals. 
+
+	Many aspects of genomic evolution can be understood by invoking a negligible level of adaptive involevement. This raises significant challenges because all three non-adaptive forces are stochastic and can generally onlny be understood n probabilistic terms. 
+
+Header:
+	The passive emergence of genomic complexity by nonadaptive processes
+Notes:
+	The conditions on this planet are such that effective population sizes are often too small to prevent internal mutation pressures from driving patterns of genomic evolution.
+	-The same population-genetic processes govern patterns of evolution in pro- and eukaryotes.
+	-Internal mutation pressure plays a central role in genomic evolution often completely overwhelming the external forces of natural selection and driving changes in a directional manner. 
+	-By enhancing the permisiviness of the population genetic environment for the passive emergence of gene architectural complexity, the non-adaptive force of random genetic drift sets the stage for future paths of adaptive evolution in novel ways that would not otherwise be possible. 
+
+Header:
+	Do the roots of organismal complexity also reside in nonadaptive processes
+Notes:
+	Multicellular species experience reduced population sizes and reduced recombination rates, both of which diminish the efficiency of selection, thereby encouraging the accumulation of hazardous extragenic DNA. It may be no coincidence that multicellular species also have ubstantially higher extinction rates than unicellular ones. 
+
+Header: 
+	An entree to understanding the origins of genomic determinants of organismal complexity
+Notes:
+	Whereas small population sizes may promote the passive elongation of genetic pathways, large population sizes have the opposite effect
+
+Header:
+	Closing remarks
+Notes:
+	Evolution deals with observatinos on historical outcomes, often in the face of incomplete information on intermediate steps (especially at the molecular level).
+	If the view that nonadaptive processes have played a central role in driving genomic evolution is correct, biological complexity should be viewed not as an extraordinary low-probability outcome of unobservable adaptive challenges, but as an expected product of special population genetic features of DNA-based genomes. 	
+	
 
 ###---###
